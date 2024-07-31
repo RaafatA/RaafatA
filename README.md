@@ -5,9 +5,9 @@ A Passionate Plant Bioinformatician
 ## 💫 Little Bit More About Me
 
 INTERESTS:
-<p> 🤩 Improving my coding skills to become a full stack developer 🤩 </p>
-<p> 🖥 Software Development.</p>
-<p> 👨‍🏫 Devops.</p>
+<p> 🤩 Imploying mahcine learning into plant molecular breeding  🤩 </p>
+<p> Plant Molecular Biology.</p>
+<p> Sustainable agriculture </p>
  
 
 ## 💻 Skills
@@ -17,6 +17,9 @@ INTERESTS:
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
+<img src=" https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" style="margin-bottom: 4px;" height="30px">
+
  
 
 
