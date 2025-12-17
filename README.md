@@ -1,12 +1,11 @@
-# Hi there 👋, My name is Rafat Eissa 
+# Hi there 👋, My name is Rafat A. Eissa 
 
-A Passionate Plant Bioinformatician
-
-## 💫 Little Bit More About Me
+### A Passionate Bioinformatician
+Bioinformatician specializing in multi-omics analysis for plant and environmental systems, with hands-on experience in genomics, transcriptomics, and metagenomics to support sustainable agriculture and healthcare.
 
 INTERESTS:
-<p> 🤩 Imploying mahcine learning into plant molecular breeding  🤩 </p>
-<p> Plant Molecular Biology.</p>
+<p> Multiomics integration </p>
+<p> Pharmacogenomics .</p>
 <p> Sustainable agriculture </p>
  
 
@@ -24,13 +23,10 @@ INTERESTS:
 
 
 
-Advances in high-throughput technologies have led to an intensive accumulation of biological omics data. Each type of omics data has its own characteristics, distribution, and errors associated with the technology, tissue source, and the instrument itself. Therefore, we need to develop robust methods to handle this vast data resource to accelerate progress in various biological fields. 
-
-An eager young mind and researcher interested in molecular plant biology and breeding.
-My own research interest lies in applying machine learning to integrate multi-omics data in order to simulate and predict complex traits in molecular plant breeding, including, but not limited to, genotype-to-phenotype prediction and genome simulation of plants.
-
+Advances in high-throughput sequencing have created an abundance of omics data, and my work focuses on translating this complexity into actionable biological insights for crops and environmental systems. I am a bioinformatician with a background in agricultural biotechnology and experience in plant genomics, transcriptomics, metagenomics, and microbial ecology, working on questions related to stress tolerance, yield, and sustainable production.
+My research interests lie in integrating multi-omics data and applying statistical modeling and machine learning to understand and predict complex traits, from genotype-to-phenotype relationships in crops to microbiome–host interactions in agroecosystems. I routinely work with RNA-seq, metagenomics, GWAS, and single-cell datasets using tools such as QIIME2, DESeq2, MetaWRAP, and R/Python in HPC environments.
  I'm always interested in connecting with others in the field and exploring new opportunities to leverage machine learning for a more sustainable future.
-
+Beyond analysis, I actively contribute to scientific writing, pipeline optimization, and capacity building through workshops, teaching, and community initiatives such as the BIOME platform. I am always open to collaborations and new projects at the intersection of bioinformatics, plant breeding, and environmental sustainability.​
 <!---
 RaafatA/RaafatA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
